@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "hotosm_bmu_education_facilities_points_geojson",
+"features": [
+{ "type": "Feature", "properties": { "name": null, "name:en": null, "amenity": "kindergarten", "building": null, "operator:type": null, "capacity:persons": null, "addr:full": null, "addr:city": null, "source": null, "osm_id": 8507663057, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ -64.8732966, 32.3014961 ] } },
+{ "type": "Feature", "properties": { "name": "Treetops", "name:en": null, "amenity": "kindergarten", "building": null, "operator:type": null, "capacity:persons": null, "addr:full": null, "addr:city": null, "source": null, "osm_id": 2340780991, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ -64.8455996, 32.2495969 ] } },
+{ "type": "Feature", "properties": { "name": "Itsy Bitsy Day Care", "name:en": null, "amenity": "kindergarten", "building": null, "operator:type": null, "capacity:persons": null, "addr:full": null, "addr:city": null, "source": null, "osm_id": 8503991540, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ -64.8760204, 32.2682952 ] } },
+{ "type": "Feature", "properties": { "name": "Chatterbox", "name:en": null, "amenity": "kindergarten", "building": null, "operator:type": null, "capacity:persons": null, "addr:full": null, "addr:city": null, "source": null, "osm_id": 2340779758, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ -64.8459322, 32.25155 ] } }
+]
+}

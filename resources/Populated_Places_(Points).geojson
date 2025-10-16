@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "hotosm_bmu_populated_places_points_geojson",
+"features": [
+{ "type": "Feature", "properties": { "name": "Flatts", "name:en": "Flatts", "place": "village", "landuse": null, "population": null, "is_in": null, "source": null, "osm_id": 388776959, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ -64.7385344, 32.3211651 ] } },
+{ "type": "Feature", "properties": { "name": "North Shore Village", "name:en": null, "place": "village", "landuse": null, "population": null, "is_in": null, "source": null, "osm_id": 8461920155, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ -64.7727352, 32.3058103 ] } },
+{ "type": "Feature", "properties": { "name": "Somerset", "name:en": "Somerset", "place": "village", "landuse": null, "population": null, "is_in": null, "source": null, "osm_id": 316781764, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ -64.8699524, 32.2962083 ] } },
+{ "type": "Feature", "properties": { "name": "St. George's", "name:en": "St. George's", "place": "town", "landuse": null, "population": "1527", "is_in": null, "source": null, "osm_id": 316780804, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ -64.676717, 32.3810447 ] } },
+{ "type": "Feature", "properties": { "name": "Hamilton", "name:en": "Hamilton", "place": "city", "landuse": null, "population": "854", "is_in": null, "source": null, "osm_id": 1811574522, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ -64.7853167, 32.2942679 ] } },
+{ "type": "Feature", "properties": { "name": "St. David's", "name:en": null, "place": "village", "landuse": null, "population": null, "is_in": null, "source": null, "osm_id": 11999364517, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ -64.6664734, 32.3679349 ] } },
+{ "type": "Feature", "properties": { "name": "Tucker's Town", "name:en": null, "place": "hamlet", "landuse": null, "population": null, "is_in": null, "source": null, "osm_id": 11143170821, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ -64.6869477, 32.3333006 ] } },
+{ "type": "Feature", "properties": { "name": "Spanish Point", "name:en": null, "place": "village", "landuse": null, "population": null, "is_in": null, "source": null, "osm_id": 11999364512, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ -64.810214, 32.3058327 ] } },
+{ "type": "Feature", "properties": { "name": "Royal Naval Dockyard", "name:en": null, "place": "village", "landuse": null, "population": null, "is_in": null, "source": null, "osm_id": 11999364513, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ -64.8339593, 32.3276283 ] } },
+{ "type": "Feature", "properties": { "name": "Fairylands", "name:en": null, "place": "village", "landuse": null, "population": null, "is_in": null, "source": null, "osm_id": 11999364516, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ -64.8017801, 32.2963428 ] } }
+]
+}
