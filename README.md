@@ -26,7 +26,7 @@ A web-based interactive 3D map viewer built with [CesiumJS](https://cesium.com/c
 
 ## Live Demo
 
-[View on GitHub Pages](https://YOUR_USERNAME.github.io/meta-hamilton-cesium/)
+[View on GitHub Pages](https://harry-ellis2.github.io/MetaHamilton/)
 
 ---
 
@@ -35,7 +35,7 @@ A web-based interactive 3D map viewer built with [CesiumJS](https://cesium.com/c
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/meta-hamilton-cesium.git
+git clone https://github.com/harry-ellis2/MetaHamilton.git
 cd meta-hamilton-cesium
 ```
 
