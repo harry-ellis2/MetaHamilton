@@ -20,7 +20,6 @@ A web-based interactive 3D map viewer built with [CesiumJS](https://cesium.com/c
   - Roads and waterways
 - Performance mode for lower-spec machines
 - Interactive selection highlights for polygons, polylines, and billboards
-- Manual ArcGIS / URL template imagery input
 
 ---
 
